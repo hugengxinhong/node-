@@ -39,3 +39,6 @@ body {
 main {
   display: grid;
 }
+.active {
+  border: 1px sold red;
+}
